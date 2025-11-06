@@ -25,15 +25,3 @@
   </ul>
 </body>
 </html>
-=======
-Descripción / Description:/n
-Ejercicio 1 — Crear cuenta y repositorio en GitHub
--He creado mi cuenta en GitHub
--He creado un nuevo repositorio
-Nombre del repositorio: didactic-gigglee 
-
-Tecnologías / Technologies
-Frontend: Github
-Backend: Git
-Editor / IDE: Visual Studio Code 
->>>>>>> a7d344f0f6d306aa4ffc291e12e4165617427eab
