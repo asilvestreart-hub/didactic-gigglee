@@ -1,5 +1,5 @@
 {color: blue;
 }
 picture {
-  border: 2px solid black;
+  border: 2px solid rgb(173, 69, 69);
 }
