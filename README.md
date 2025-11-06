@@ -1,5 +1,5 @@
 # didactic-gigglee
-Descripción / Description:
+Descripción / Description:/n
 Ejercicio 1 — Crear cuenta y repositorio en GitHub
 -He creado mi cuenta en GitHub
 -He creado un nuevo repositorio
