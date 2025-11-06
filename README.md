@@ -1,5 +1,4 @@
 # didactic-gigglee
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,7 +7,7 @@
   <title>didactic-gigglee</title>
 </head>
 <body>
-  <h1>didactic-gigglee</h1>
+  <h1>Sprint0</h1>
   <p>Ejercicio 1 — Crear cuenta y repositorio en GitHub</p>
 
   <h2>Descripción</h2>
